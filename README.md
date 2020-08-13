@@ -1,4 +1,4 @@
-# TIL: Today I Learned
+# [TIL: Today I Learned](https://isasaka.github.io/til/)
 
 今日学んだことの自分用メモです。
 
