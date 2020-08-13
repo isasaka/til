@@ -5,8 +5,16 @@
 ## Table of Contents
 
 - [Categories](#categories)
-  - [xxx](#xxx)
+  - [Git / GitHub](#git)
+  - [IntelliJ IDEA / その他JetBrains系IDE含む](#jetbrains)
+  - [Other](#other)
 
 ## Categories
 
-### xxx
+<a id="git"></a>
+### Git / GitHub
+
+<a id="jetbrains"></a>
+### IntelliJ IDEA / その他JetBrains系IDE含む
+
+### Other
