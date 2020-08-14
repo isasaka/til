@@ -14,6 +14,7 @@
 ### Git / GitHub
 
 - [GitHub Pages](/git/github_pages.md)
+- [パスワードなどの秘密情報を誤ってコミットすることを防ぐツール「git-secrets」](/git/git-secrets.md)
 
 ### IntelliJ IDEA / その他JetBrains系IDE含む
 
