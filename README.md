@@ -18,4 +18,10 @@
 
 ### IntelliJ IDEA / その他JetBrains系IDE含む
 
+- [Ruby / Ruby on Rails](/jetbrains/ruby.md)
+
+### Visual Studio Code
+
+- [キーボードショートカット](/vscode/keyboard_shortcut.md)
+
 ### Other
