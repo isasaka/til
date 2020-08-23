@@ -7,6 +7,8 @@
 - [Categories](#categories)
   - [Git / GitHub](#git--github)
   - [IntelliJ IDEA / その他JetBrains系IDE含む](#intellij-idea--その他jetbrains系ide含む)
+  - [Visual Studio Code](#visual-studio-code)
+  - [ドメイン駆動設計](#ドメイン駆動設計)
   - [Other](#other)
 
 ## Categories
@@ -23,5 +25,9 @@
 ### Visual Studio Code
 
 - [キーボードショートカット](/vscode/keyboard_shortcut.md)
+
+### ドメイン駆動設計
+
+- [エヴァンス本 輪読会リンク](https://hackmd.io/6JyudJcoTNqUqlzDlA91cQ)
 
 ### Other
