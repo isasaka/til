@@ -74,3 +74,17 @@ $ docker -v
 /usr/local/bin/gradle
 $
 ```
+
+## Gradle
+
+### 公式ドキュメント
+
+* [日本語訳](http://gradle.monochromeroad.com/docs/userguide/userguide.html)
+
+### Gradleラッパーとは
+
+  * [Gradle公式ドキュメント](http://gradle.monochromeroad.com/docs/userguide/userguide_single.html)
+    > Gradleラッパー（以後ラッパーとします）は、Gradleのビルドを実行する方法として推奨されているものです。 ラッパーは、バッチスクリプト（Windows用）とシェルスクリプト（その他のOS用）で提供されます。 このラッパーを使ってGradleビルドを実行すると、Gradleが自動的にダウンロードされ、それを使ってビルドが実行されます。
+  * [Spring公式ドキュメント](https://spring.pleiades.io/guides/gs/gradle/)    
+  * gradlew.bat
+  
