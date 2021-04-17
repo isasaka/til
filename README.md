@@ -31,6 +31,7 @@
 ### テスト駆動開発
 
 - [TDD Boot Camp 2020 Online #1 基調講演/ライブコーディング動画](https://youtu.be/Q-FJ3XmFlT8?t=1145)
+- [「テストコードのリファクタリングが目指すもの」和田 卓人さんライブコーディング動画@Developer eXperience Day  CTO/VPoE Conference 2021](https://dxd2021.cto-a.org/program/time-table/a-1)
 
 ### ドメイン駆動設計
 
