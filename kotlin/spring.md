@@ -32,6 +32,8 @@
 - [Kotlin × Spring Boot で REST API サンプルアプリケーション作ってみた。](https://qiita.com/yusuke_dev/items/79c980ff7002d68f9aa5)
 - ログアウト時に該当ユーザーのセッションを全て無効にする
   - [Spring Boot(2系)で Redis Session使用時に同一ユーザの他のセッション一覧を取得する。またそれを破棄する。 - Qiita](https://qiita.com/boushi-bird@github/items/a7bbcaae9cbcab3b1a0a)
+- Spring Security
+  - [Spring Security Kotlinでの設定サンプル](https://github.com/spring-projects/spring-security-samples/blob/main/servlet/spring-boot/kotlin/hello-security/src/main/kotlin/org/springframework/security/samples/config/SecurityConfig.kt)
 
 ### SpringBoot + Kotlin + Docker を使ってみる
 
