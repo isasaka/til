@@ -30,6 +30,8 @@
 - [Spring Bootで始める簡単Webプロジェクト～ひな型の作成からWeb APIの実装まで](https://codezine.jp/article/detail/11380)
 - [Groovyを知らない人のためのbuild.gradle読み書き入門](https://qiita.com/opengl-8080/items/a0bb31fb20cb6505188b)
 - [Kotlin × Spring Boot で REST API サンプルアプリケーション作ってみた。](https://qiita.com/yusuke_dev/items/79c980ff7002d68f9aa5)
+- ログアウト時に該当ユーザーのセッションを全て無効にする
+  - [Spring Boot(2系)で Redis Session使用時に同一ユーザの他のセッション一覧を取得する。またそれを破棄する。 - Qiita](https://qiita.com/boushi-bird@github/items/a7bbcaae9cbcab3b1a0a)
 
 ### SpringBoot + Kotlin + Docker を使ってみる
 
